@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/0b5bc427-978b-4d81-8424-bd5c2010d2cb" />
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/8c83c439-e651-4c5c-bf8b-aa89f0c51ff8" />
+
 # k-means-clustering-Task
 # Customer Segmentation using K-Means Clustering
 
@@ -25,6 +24,12 @@ Mall_Customers.csv Dataset
 
 ## Result
 Successfully segmented customers into different groups using K-Means clustering.
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/456647a4-cf1e-4d71-8b8b-533a9cb9fa6a" />
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0d910eea-ef80-428a-934d-04567cc698f0" />
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/4e04c0d9-dce0-445f-8cc9-722e7fa6b9a6" />
+
+
+
 
 colab link:
 https://colab.research.google.com/drive/18mkCXT_n6QCfETNhkalplUYp0Iaq-n5r?usp=sharing
