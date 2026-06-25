@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/0b5bc427-978b-4d81-8424-bd5c2010d2cb" />
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/8c83c439-e651-4c5c-bf8b-aa89f0c51ff8" />
 # k-means-clustering-Task
 # Customer Segmentation using K-Means Clustering
 
