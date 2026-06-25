@@ -24,6 +24,9 @@ Mall_Customers.csv Dataset
 ## Result
 Successfully segmented customers into different groups using K-Means clustering.
 
+colab link:
+https://colab.research.google.com/drive/18mkCXT_n6QCfETNhkalplUYp0Iaq-n5r?usp=sharing
+
 Author:
  Durga Prasad
 Data Science Internship – Edutech Solution
