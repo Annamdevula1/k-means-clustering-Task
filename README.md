@@ -36,4 +36,4 @@ https://colab.research.google.com/drive/18mkCXT_n6QCfETNhkalplUYp0Iaq-n5r?usp=sh
 
 Author:
  Durga Prasad
-Data Science Internship – Edutech Solution
+Data Science Internship 
